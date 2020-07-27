@@ -1,3 +1,5 @@
+source ~/.vim/init/02-interface-defaults.vim
+
 syntax on
 colorscheme wombat256mod
 set cursorline
