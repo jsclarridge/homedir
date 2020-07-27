@@ -1,4 +1,5 @@
 source ~/.vim/init/00-plugins.vim
+source ~/.vim/init/01-plugins-settings.vim
 source ~/.vim/init/02-interface-defaults.vim
 source ~/.vim/init/02-interface-colorscheme.vim
 source ~/.vim/init/02-interface-indentation.vim
