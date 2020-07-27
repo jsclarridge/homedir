@@ -1,5 +1,6 @@
 source ~/.vim/init/00-plugins.vim
 source ~/.vim/init/02-interface-defaults.vim
+source ~/.vim/init/02-interface-indentation.vim
 source ~/.vim/init/02-interface-general.vim
 
 if empty(glob('~/.vim/autoload/plug.vim'))
