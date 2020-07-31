@@ -26,5 +26,5 @@ set softtabstop=4
 set shiftround
 
 " settings for specific file types
-autocmd FileType yaml,json setlocal shiftwidth=2 tabstop=2 expandtab
+autocmd FileType yaml,json,tf setlocal shiftwidth=2 tabstop=2 expandtab
 autocmd FileType go setlocal shiftwidth=8 tabstop=8 noexpandtab

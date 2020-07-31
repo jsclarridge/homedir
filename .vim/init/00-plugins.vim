@@ -6,5 +6,6 @@ Plug 'SirVer/ultisnips'
 Plug 'pearofducks/ansible-vim'
 Plug 'preservim/nerdtree'
 Plug 'ctrlpvim/ctrlp.vim'
+Plug 'hashivim/vim-terraform'
 
 call plug#end()
