@@ -7,5 +7,6 @@ Plug 'pearofducks/ansible-vim'
 Plug 'preservim/nerdtree'
 Plug 'ctrlpvim/ctrlp.vim'
 Plug 'hashivim/vim-terraform'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 call plug#end()
