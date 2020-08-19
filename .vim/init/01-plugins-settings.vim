@@ -12,6 +12,7 @@ let g:go_metalinter_autosave = 1
 let g:go_metalinter_autosave_enabled = ['vet', 'golint']
 let g:go_metalinter_deadline = "5s"
 let g:go_metalinter_enabled = ['vet', 'golint', 'errcheck']
+let g:go_template_use_pkg = 1
 let g:go_test_timeout = '10s'
 map <C-n> :cnext<CR>
 map <C-m> :cprevious<CR>
