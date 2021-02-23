@@ -7,8 +7,8 @@ set autoindent
 " indent wrapped lines to the same level of indentation
 set breakindent
 
-" shift keys in normal mode add or remove 4 spaces
-set shiftwidth=4
+" shift keys in normal mode add or remove x spaces
+set shiftwidth=2
 
 " use tabs for indentation and spaces everywhere else
 set smarttab
@@ -16,11 +16,11 @@ set smarttab
 " automatically expand tabs into whitespace
 set expandtab
 
-" tabstop is 4 characters
-set tabstop=4
+" tabstop is x characters
+set tabstop=2
 
-" delete key in insert mode deletes 4 spaces
-set softtabstop=4
+" delete key in insert mode deletes x spaces
+set softtabstop=2
 
 " auto-shift to tab stop
 set shiftround
