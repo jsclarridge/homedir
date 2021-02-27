@@ -5,9 +5,14 @@ let g:ansible_unindent_after_newline = 1
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " vim-go
+set autowrite
+" let g:go_auto_sameids = 1
 let g:go_auto_type_info = 1
 let g:go_fmt_command = "goimports"
 let g:go_list_type = "quickfix"
+" let g:go_metalinter_autosave = 1
+" let g:go_metalinter_autosave_enabled = ['vet', 'golint', 'errcheck']
+" let g:go_metalinter_enabled = ['vet', 'golint', 'errcheck']
 let g:go_template_use_pkg = 1
 let g:go_test_timeout = '10s'
 map <C-n> :cnext<CR>
