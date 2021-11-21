@@ -2,3 +2,4 @@
 .vim/plugged
 # vim-plug is self-updating
 .vim/autoload/plug.vim
+.vim/autoload/plug.vim.old
